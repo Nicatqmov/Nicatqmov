@@ -67,7 +67,7 @@ I'm a backend-focused developer who enjoys building real-world applications, exp
 ## 📫 Contact
 
 - GitHub: **@Nicatqmov**
-- Gmail: **@nijatt.gasimov@gmail.com**
+- Gmail: **nijatt.gasimov@gmail.com**
 - Feel free to open an issue or start a discussion 🙂
 
 ---
