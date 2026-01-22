@@ -1,6 +1,6 @@
 # Hi 👋 I'm Nicat Qasımov
 
-🚀 Backend Developer | PHP (Laravel) | Go | Databases  
+🚀 Backend Developer | PHP (Laravel) | Go 
 📍 Azerbaijan  
 
 I'm a backend-focused developer who enjoys building real-world applications, experimenting with Go, and working with modern PHP ecosystems like Laravel & Filament.
