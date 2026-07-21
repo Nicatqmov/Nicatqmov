@@ -9,7 +9,7 @@ I'm a backend-focused developer who enjoys building real-world applications, exp
 
 ## 🧠 About Me
 
-- 🔧 Backend developer with hands-on experience in **Laravel**, **Filament**, and **Go**
+- 🔧 Backend developer with hands-on experience in **PHP** **Laravel**
 - 🗄️ Working with **MySQL** and **PostgreSQL**
 - 🏗️ Interested in **application architecture** (Monolith vs Microservices)
 - ☁️ Learning **Cloud & Serverless Computing**
@@ -21,34 +21,39 @@ I'm a backend-focused developer who enjoys building real-world applications, exp
 ## 🛠️ Tech Stack
 
 ### Backend
-- **PHP** (Laravel, Filament)
-- **Go** (CLI tools, small backend services)
+- **PHP** 
+- **Go** 
 
 ### Databases
 - MySQL  
-- PostgreSQL  
+- PostgreSQL
+- MongoDB
 
 ### Tools & Other
 - Composer
 - Git & GitHub
 - REST APIs
-- Linux / Windows CLI
+- Linux
+- Docker
 
 ---
 
 ## 📌 Projects & Interests
 
-- 🧑‍💼 **HR / Applicant Management Systems** (open-source & modern)
-- 🔐 **Authentication & Password Management**
-- ⚙️ **Terminal & CLI applications in Go**
-- 🏢 Admin panels with **Laravel Filament**
-- 📊 CRUD-heavy business applications
+- 🏗️ Metadata-driven backend generators & low-code platforms
+- 🏢 HR, ERP & Business Management Systems
+- 💬 Real-time applications & WebSockets
+- 🛒 E-Commerce & GraphQL APIs
+- 🏢 Laravel Filament admin panels
+- 🔐 Authentication & Identity Management
+- ⚙️ Backend utilities & CLI tools in Go
+- 🚀 Scalable REST APIs & backend architecture
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced **Laravel & Filament** internals
+- Advanced **Laravel** internals
 - **Go** best practices & performance
 - **Cloud Computing & Serverless**
 - Better **software architecture** decisions
